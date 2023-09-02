@@ -34,10 +34,7 @@ I'm a Python developer specializing in FastAPI and Django. With hands-on experie
 
 ---
 
-📈 **Personal GitHub Stats**
+📈 **GitHub Stats**
 
-![Personal GitHub stats](https://github-readme-stats.vercel.app/api?username=floydya&show_icons=true&theme=transparent)
-
-📈 **Work GitHub Stats**
-
-![Work GitHub stats](https://github-readme-stats.vercel.app/api?username=galatskiy-vlad&show_icons=true&theme=transparent)
+![Personal GitHub stats](https://github-readme-stats.vercel.app/api?username=floydya&show_icons=true&theme=transparent&custom_title=Personal%20GitHub%20Stats)
+![Work GitHub stats](https://github-readme-stats.vercel.app/api?username=galatskiy-vlad&show_icons=true&theme=transparent&custom_title=Work%20GitHub%20Stats)
