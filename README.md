@@ -36,5 +36,5 @@ I'm a Python developer specializing in FastAPI and Django. With hands-on experie
 
 📈 **GitHub Stats**
 
-![Personal GitHub stats](https://github-readme-stats-tan-delta.vercel.app/api?username=floydya&show_icons=true&theme=transparent&custom_title=Personal%20GitHub%20Stats)
+![Personal GitHub stats](https://github-readme-stats-tan-delta.vercel.app/api?username=floydya&show_icons=true&theme=transparent&custom_title=Personal%20GitHub%20Stats&q=1)
 
