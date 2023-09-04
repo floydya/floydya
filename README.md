@@ -6,6 +6,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+_____
+## Before we get to know each other, check out this repo and give it a star, pretty please!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=floydya&repo=declarativex)](https://github.com/floydya/declarativex)
+### Okay, thanks 🙏😉
+_____
+
 I'm a Python developer specializing in FastAPI and Django. With hands-on experience in a stack that includes PostgreSQL, MySQL, Redis, asyncio, pytest, Celery, Docker, RabbitMQ, and more, I thrive in environments that challenge me to learn and grow. I also have frontend skills with React and TypeScript.
 
 ## 📫 How to reach me
